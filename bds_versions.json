@@ -1,0 +1,332 @@
+{
+  "name": "Minecraft Bedrock Dedicated Server Versions",
+  "description": "BDS 版本列表，由 BDS Manager 维护",
+  "updated": "2026-07-05",
+  "versions": [
+    {
+      "version": "1.26.32.2",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.32.2.zip"
+    },
+    {
+      "version": "1.26.31.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.31.1.zip"
+    },
+    {
+      "version": "1.26.30.5",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.30.5.zip"
+    },
+    {
+      "version": "1.26.23.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.23.1.zip"
+    },
+    {
+      "version": "1.26.22.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.22.1.zip"
+    },
+    {
+      "version": "1.26.21.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.21.1.zip"
+    },
+    {
+      "version": "1.26.20.5",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.20.5.zip"
+    },
+    {
+      "version": "1.26.20.4",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.20.4.zip"
+    },
+    {
+      "version": "1.26.14.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.14.1.zip"
+    },
+    {
+      "version": "1.26.13.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.13.1.zip"
+    },
+    {
+      "version": "1.26.12.2",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.12.2.zip"
+    },
+    {
+      "version": "1.26.11.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.11.1.zip"
+    },
+    {
+      "version": "1.26.10.4",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.10.4.zip"
+    },
+    {
+      "version": "1.26.3.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.3.1.zip"
+    },
+    {
+      "version": "1.26.2.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.2.1.zip"
+    },
+    {
+      "version": "1.26.1.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.1.1.zip"
+    },
+    {
+      "version": "1.26.0.29",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.0.29.zip"
+    },
+    {
+      "version": "1.26.0.28",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.0.28.zip"
+    },
+    {
+      "version": "1.26.0.27",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.0.27.zip"
+    },
+    {
+      "version": "1.26.0.26",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.0.26.zip"
+    },
+    {
+      "version": "1.26.0.25",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.0.25.zip"
+    },
+    {
+      "version": "1.26.0.24",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.0.24.zip"
+    },
+    {
+      "version": "1.26.0.23",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.0.23.zip"
+    },
+    {
+      "version": "1.21.130.20",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.130.20.zip"
+    },
+    {
+      "version": "1.21.124.2",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.124.2.zip"
+    },
+    {
+      "version": "1.21.123.2",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.123.2.zip"
+    },
+    {
+      "version": "1.21.122.2",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.122.2.zip"
+    },
+    {
+      "version": "1.21.121.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.121.1.zip"
+    },
+    {
+      "version": "1.21.120.20",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.120.20.zip"
+    },
+    {
+      "version": "1.21.120.4",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.4.zip"
+    },
+    {
+      "version": "1.21.114.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.114.1.zip"
+    },
+    {
+      "version": "1.21.113.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.113.1.zip"
+    },
+    {
+      "version": "1.21.112.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.112.1.zip"
+    },
+    {
+      "version": "1.21.111.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.111.1.zip"
+    },
+    {
+      "version": "1.21.110.20",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.110.20.zip"
+    },
+    {
+      "version": "1.21.102.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.102.1.zip"
+    },
+    {
+      "version": "1.21.101.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.101.1.zip"
+    },
+    {
+      "version": "1.21.100.20",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.100.20.zip"
+    },
+    {
+      "version": "1.21.100.7",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.100.7.zip"
+    },
+    {
+      "version": "1.21.95.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.95.1.zip"
+    },
+    {
+      "version": "1.21.94.2",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.94.2.zip"
+    },
+    {
+      "version": "1.21.93.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.93.1.zip"
+    },
+    {
+      "version": "1.21.92.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.92.1.zip"
+    },
+    {
+      "version": "1.21.90.20",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.20.zip"
+    },
+    {
+      "version": "1.21.90.4",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.90.4.zip"
+    },
+    {
+      "version": "1.21.84.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.84.1.zip"
+    },
+    {
+      "version": "1.21.83.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.83.1.zip"
+    },
+    {
+      "version": "1.21.82.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.82.1.zip"
+    },
+    {
+      "version": "1.21.81.2",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.81.2.zip"
+    },
+    {
+      "version": "1.21.80.20",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.20.zip"
+    },
+    {
+      "version": "1.21.80.3",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.80.3.zip"
+    },
+    {
+      "version": "1.21.73.01",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.73.01.zip"
+    },
+    {
+      "version": "1.21.72.01",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.72.01.zip"
+    },
+    {
+      "version": "1.21.71.01",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.71.01.zip"
+    },
+    {
+      "version": "1.21.70.25",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.70.25.zip"
+    },
+    {
+      "version": "1.21.70.04",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.70.04.zip"
+    },
+    {
+      "version": "1.21.62.01",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.62.01.zip"
+    },
+    {
+      "version": "1.21.51.02",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.51.02.zip"
+    },
+    {
+      "version": "1.21.50.10",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.50.10.zip"
+    },
+    {
+      "version": "1.21.44.01",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.44.01.zip"
+    },
+    {
+      "version": "1.21.43.01",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.43.01.zip"
+    },
+    {
+      "version": "1.21.42.01",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.42.01.zip"
+    },
+    {
+      "version": "1.21.41.01",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.41.01.zip"
+    },
+    {
+      "version": "1.21.40.03",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.40.03.zip"
+    },
+    {
+      "version": "1.21.31.04",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.31.04.zip"
+    }
+  ]
+}
