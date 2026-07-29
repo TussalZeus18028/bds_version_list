@@ -13,8 +13,8 @@ import urllib.request, urllib.error
 VERSION_FILE = "bds_versions.json"
 STABLE_URL_FMT = "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-{version}.zip"
 PREVIEW_URL_FMT = "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-{version}.zip"
-RANGE_SMALL = {"patch": 10, "build": 35}
-RANGE_BIG = {"patch": 50, "build": 60}
+RANGE_SMALL = {"patch": 15, "build": 45}
+RANGE_BIG = {"patch": 60, "build": 80}
 
 # User-Agent 轮换池
 UA_POOL = [
@@ -65,14 +65,16 @@ def parse_version(s: str) -> tuple:
 
 
 def generate_urls(start_version: str, branch: str, scan_depth: str = "small") -> list[str]:
-    """从 start_version 向后续版本生成待探测列表。"""
+    """从 start_version 向后续版本生成待探测列表。patch/build 范围是相对于起点的偏移量。"""
     major, minor, patch, build = parse_version(start_version)
     versions = []
     r = RANGE_SMALL if scan_depth == "small" else RANGE_BIG
-    for bp in range(build + 1, r["build"]):
+    # 同一 patch 号下的更大 build 号
+    for bp in range(build + 1, build + 1 + r["build"]):
         v = f"{major}.{minor}.{patch}.{bp}"
         versions.append(v)
-    for pp in range(patch + 1, r["patch"]):
+    # 更高 patch 号下的所有 build
+    for pp in range(patch + 1, patch + 1 + r["patch"]):
         for b in range(0, r["build"]):
             v = f"{major}.{minor}.{pp}.{b}"
             versions.append(v)

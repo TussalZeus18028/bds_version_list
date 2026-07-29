@@ -1,8 +1,18 @@
 {
   "name": "Minecraft Bedrock Dedicated Server Versions",
   "description": "BDS 版本列表，由 BDS Manager 维护",
-  "updated": "2026-07-25",
+  "updated": "2026-07-29",
   "versions": [
+    {
+      "version": "1.26.36.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.36.1.zip"
+    },
+    {
+      "version": "1.26.34.3",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.34.3.zip"
+    },
     {
       "version": "1.26.33.2",
       "branch": "stable",
