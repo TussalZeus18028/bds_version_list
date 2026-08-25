@@ -1,8 +1,73 @@
 {
   "name": "Minecraft Bedrock Dedicated Server Versions",
   "description": "BDS 版本列表，由 BDS Manager 维护",
-  "updated": "2026-07-29",
+  "updated": "2026-08-25",
   "versions": [
+    {
+      "version": "1.26.43.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.43.1.zip"
+    },
+    {
+      "version": "1.26.42.1",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.42.1.zip"
+    },
+    {
+      "version": "1.26.40.31",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.31.zip"
+    },
+    {
+      "version": "1.26.40.30",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.30.zip"
+    },
+    {
+      "version": "1.26.40.29",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.29.zip"
+    },
+    {
+      "version": "1.26.40.27",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.27.zip"
+    },
+    {
+      "version": "1.26.40.26",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.26.zip"
+    },
+    {
+      "version": "1.26.40.25",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.25.zip"
+    },
+    {
+      "version": "1.26.40.24",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.24.zip"
+    },
+    {
+      "version": "1.26.40.23",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.23.zip"
+    },
+    {
+      "version": "1.26.40.21",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.21.zip"
+    },
+    {
+      "version": "1.26.40.20",
+      "branch": "preview",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.40.20.zip"
+    },
+    {
+      "version": "1.26.40.8",
+      "branch": "stable",
+      "url": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.40.8.zip"
+    },
     {
       "version": "1.26.36.1",
       "branch": "stable",
